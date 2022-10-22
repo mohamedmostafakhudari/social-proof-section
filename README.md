@@ -29,7 +29,6 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 - Semantic HTML5 markup
 - [tailwind](https://tailwindcss.com/) - CSS framework
-- JavaScript
 ## Author
 
 - Frontend Mentor - [@mohamedmostafakhudari](https://www.frontendmentor.io/profile/cheng-moo)
